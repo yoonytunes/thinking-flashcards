@@ -1,0 +1,332 @@
+flashcards:
+  - term: Atraumatic
+    category: Constitutional
+    definition: No evidence of trauma to the body
+
+  - term: Diaphoresis
+    category: Constitutional
+    definition: Excessive sweating
+
+  - term: Febrile
+    category: Constitutional
+    definition: Having a fever
+
+  - term: Malaise
+    category: Constitutional
+    definition: Generalized discomfort or weakness
+
+  - term: Normocephalic
+    category: Constitutional
+    definition: Normal shaped head
+
+  - term: Polydipsia
+    category: Constitutional
+    definition: Excessive thirst
+
+  - term: Polyuria
+    category: Constitutional
+    definition: Excessive urination
+
+  - term: Conjunctiva
+    category: Eyes
+    definition: Membrane lining of the eyelids and covering of the eyeball; “white part”
+
+  - term: Conjunctival injection
+    category: Eyes
+    definition: Redness of the conjunctiva
+
+  - term: Diplopia
+    category: Eyes
+    definition: Double vision
+
+  - term: Nystagmus
+    category: Eyes
+    definition: Involuntary rapid movements of the eyes
+
+  - term: Cerumen
+    category: Ears, Nose, Throat
+    definition: Ear wax
+
+  - term: Dentalgia
+    category: Ears, Nose, Throat
+    definition: Dental pain
+
+  - term: Dentition
+    category: Ears, Nose, Throat
+    definition: Indicating the condition of teeth (i.e. intact)
+
+  - term: Dysphagia
+    category: Ears, Nose, Throat
+    definition: Painful/difficulty swallowing
+
+  - term: Epistaxis
+    category: Ears, Nose, Throat
+    definition: Bleeding of the nose
+
+  - term: Hemotympanum
+    category: Ears, Nose, Throat
+    definition: Blood in the middle ear
+
+  - term: Rhinorrhea
+    category: Ears, Nose, Throat
+    definition: Runny nose
+
+  - term: Septal Deviation
+    category: Ears, Nose, Throat
+    definition: Displacement of the nasal septum
+
+  - term: Tinnitus
+    category: Ears, Nose, Throat
+    definition: Ringing of the ears
+
+  - term: Trismus
+    category: Ears, Nose, Throat
+    definition: Inability to open jaw
+
+  - term: Accessory muscle use
+    category: Respiratory
+    definition: Visible usage of muscles not normally used to breathe
+
+  - term: Bradypnea
+    category: Respiratory
+    definition: unusually slow breathing
+
+  - term: Cyanosis
+    category: Respiratory
+    definition: When skin turns purple or blue (typically due to hypoxia)
+
+  - term: Dyspnea
+    category: Respiratory
+    definition: Shortness of breath
+
+  - term: Expiration
+    category: Respiratory
+    definition: Breathing out; exhalation
+
+  - term: Inspiration
+    category: Respiratory
+    definition: Breathing in; inhalation
+
+  - term: Hemoptysis
+    category: Respiratory
+    definition: Coughing up blood
+
+  - term: Intubated
+    category: Respiratory
+    definition: Introduction of a tube into a hallow organ, such as a trachea
+
+  - term: Orthopnea
+    category: Respiratory
+    definition: shortness of breathe (dyspnea) when lying down
+
+  - term: Rale
+    category: Respiratory
+    definition: Abnormal sound heard in lungs; a cackling sound heard with stethoscope
+
+  - term: Respiratory distress
+    category: Respiratory
+    definition: Difficulty breathing
+
+  - term: Retraction
+    category: Respiratory
+    definition: Visible inward pulling of muscle between ribs when inhaling
+
+  - term: Rhonchi
+    category: Respiratory
+    definition: Whistling sound heard when partial obstruction of the lungs; sounds like low-pitched wheezing
+
+  - term: Speech dyspnea
+    category: Respiratory
+    definition: Shortness of breath (dyspnea) when speaking
+
+  - term: Stridor
+    category: Respiratory
+    definition: Sound heard when obstruction in airway; sounds like high-pitched wheezing
+
+  - term: Tachypnea
+    category: Respiratory
+    definition: Unusually fast breathing; opposite of bradypnea (unusually slow breathing)
+
+  - term: Wheeze
+    category: Respiratory
+    definition: Whistling sound made as a consequence of difficult breathing and narrowing of lumen (inner opening/cavities) in respiratory passages
+
+  - term: Aneurysm
+    category: Cardiovascular
+    definition: Widening of blood vessel that results in a blood sac
+
+  - term: Angina
+    category: Cardiovascular
+    definition: Severe constricting chest pain due to heart tissues not receiving enough blood
+
+  - term: Arrhythmia
+    category: Cardiovascular
+    definition: abnormal, irregular heartbeat
+
+  - term: Bradycardia
+    category: Cardiovascular
+    definition: unusually slow heart rate
+
+  - term: Tachycardia
+    category: Cardiovascular
+    definition: unusually fast heart rate
+
+  - term: Bruit
+    category: Cardiovascular
+    definition: A murmur or sound hear in auscultation (using stethoscope to listen for sounds in arteries or blood vessels) indicating narrowing of a vessel
+
+  - term: Capillary refill
+    category: Cardiovascular
+    definition: The return of color (blood refill) after pressing down on skin
+
+  - term: Costochondritis
+    category: Cardiovascular
+    definition: Costal cartilage (cartilage that connects sternum and ribs) inflammation
+
+  - term: Embolism
+    category: Cardiovascular
+    definition: Obstruction of blood vessels by some clot, blood or other substances
+
+  - term: Hemorrhage
+    category: Cardiovascular
+    definition: Bleeding from body (usually blood vessel rupture) internal or external
+
+  - term: Hypertension
+    category: Cardiovascular
+    definition: high blood pressure
+
+  - term: Hypotension
+    category: Cardiovascular
+    definition: low blood pressure
+
+  - term: Infarct
+    category: Cardiosvascular
+    definition: Death of a tissue due to lack of blood supply (often result from prolonged ischemia)
+
+  - term: Ischemia
+    category: Cardiovascular
+    definition: Temporary, localized area of blood restriction
+
+  - term: Murmur
+    category: Cardiovascular
+    definition: extra heart sound
+
+  - term: Palpitations
+    category: Cardiovascular
+    definition: Awareness of one's heartbeat, a pounding or fluttering sensation
+
+  - term: Pitting edema
+    category: Cardiovascular
+    definition: Fluid buildup (edema), typically in legs, that leaves a "pit" or indent when pressed
+
+  - term: Stenosis
+    category: Cardiovascular
+    definition: Narrowing of an opening (of a tubular organ or structure)
+
+  - term: Emesis
+    category: Gastrointestinal
+    definition: vomit
+
+  - term: Hematemesis
+    category: Gastrointestinal
+    definition: vomiting with blood
+
+  - term: Hematochezia
+    category: Gastrointestinal
+    definition: Blood in stool (poop), originating from lower gastrointestinal tract (i.e. colon, rectum)
+
+  - term: Hemorrhoid
+    category: Gastrointestinal
+    definition: Swollen and inflamed veins on the rectum or anus
+
+  - term: Melena
+    category: Gastrointestinal
+    definition: Black, tarry stool, originating from upper gastro tract (i.e. esophagus, stomach)
+
+  - term: Hepatosplenomegaly
+    category: Gastrointestinal
+    definition: Enlargement of the spleen and liver
+
+  - term: Urolithiasis
+    category: Gastrointestinal
+    definition: Kidney stone
+
+  - term: Cervical
+    category: Genitourinary
+    definition: Relating to the neck or cervix; in the genitourinary system, refers to neck of uterus
+
+  - term: Dysmenorrhea
+    category: Genitourinary
+    definition: Painful menstruation (woman's period)
+
+  - term: Dysuria
+    category: Genitourinary
+    definition: Painful urination
+
+  - term: Hematuria
+    category: Genitourinary
+    definition: Blood in urine
+
+  - term: Incontinence
+    category: Genitourinary
+    definition: Sudden, involuntary urge to pass urine; loss of bladder control
+
+  - term: Inguinal
+    category: Genitourinary
+    definition: Groin region
+
+  - term: Priapism
+    category: Genitourinary
+    definition: Persistent and painful erection, often due to trauma
+
+  - term: Torsion
+    category: Genitourinary
+    definition: Twisting of an organ around its own axis
+
+  - term: Nephrolithiasis
+    category: Genitourinary
+    definition: Kidney stones
+
+  - term: Arthralgia
+    category: Musculoskeletal
+    definition: Joint pain
+
+  - term: Crepitus
+    category: Musculoskeletal
+    definition: Crackling or grating sound that is usually heard in the bones
+
+  - term: Edema
+    category: Musculoskeletal
+    definition: Fluid buildup; swelling
+
+  - term: Myalgia
+    category: Musculoskeletal
+    definition: Muscle pain, body aches
+
+  - term: Sacroiliac (SI) Joint
+    category: Musculoskeletal
+    definition: Where spine and pelvis meet
+
+  - term: Spasm
+    category: Musculoskeletal
+    definition: Sudden, involuntary muscle contraction
+
+  - term: Supple
+    category: Musculoskeletal
+    definition: Flexible and movable neck
+
+  - term: Delusional
+    category: Psychological
+    definition: Having an irrational belief unable to be changed by rational argument; often applies to schizophrenics, psychosis (disconnect from reality)
+
+  - term: Dementia
+    category: Psychological
+    definition: Partial or total loss of personality, mental function due to mental deterioration, often without psychosis
+
+  - term: Homicidal ideation
+    category: Psychological
+    definition: Confirmed thoughts of hurting others
+
+  - term: Suicial ideation
+    category: Psychological
+    definition: Confirmed thoughts of self-harm
