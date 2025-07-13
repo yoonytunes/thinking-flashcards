@@ -1,4 +1,6 @@
 flashcards:
+
+# Constitutional 
   - term: Atraumatic
     category: Constitutional
     definition: No evidence of trauma to the body
@@ -27,6 +29,7 @@ flashcards:
     category: Constitutional
     definition: Excessive urination
 
+# Eyes
   - term: Conjunctiva
     category: Eyes
     definition: Membrane lining of the eyelids and covering of the eyeball; “white part”
@@ -43,6 +46,7 @@ flashcards:
     category: Eyes
     definition: Involuntary rapid movements of the eyes
 
+# Ears, Nose, Throat
   - term: Cerumen
     category: Ears, Nose, Throat
     definition: Ear wax
@@ -83,6 +87,7 @@ flashcards:
     category: Ears, Nose, Throat
     definition: Inability to open jaw
 
+# Respiratory
   - term: Accessory muscle use
     category: Respiratory
     definition: Visible usage of muscles not normally used to breathe
@@ -151,6 +156,7 @@ flashcards:
     category: Respiratory
     definition: Whistling sound made as a consequence of difficult breathing and narrowing of lumen (inner opening/cavities) in respiratory passages
 
+# Cardiovascular
   - term: Aneurysm
     category: Cardiovascular
     definition: Widening of blood vessel that results in a blood sac
@@ -223,6 +229,7 @@ flashcards:
     category: Cardiovascular
     definition: Narrowing of an opening (of a tubular organ or structure)
 
+# Gastrointestinal
   - term: Emesis
     category: Gastrointestinal
     definition: vomit
@@ -251,6 +258,7 @@ flashcards:
     category: Gastrointestinal
     definition: Kidney stone
 
+# Genitourinary
   - term: Cervical
     category: Genitourinary
     definition: Relating to the neck or cervix; in the genitourinary system, refers to neck of uterus
@@ -287,6 +295,7 @@ flashcards:
     category: Genitourinary
     definition: Kidney stones
 
+# Musculoskeletal
   - term: Arthralgia
     category: Musculoskeletal
     definition: Joint pain
@@ -315,6 +324,7 @@ flashcards:
     category: Musculoskeletal
     definition: Flexible and movable neck
 
+# Psychological
   - term: Delusional
     category: Psychological
     definition: Having an irrational belief unable to be changed by rational argument; often applies to schizophrenics, psychosis (disconnect from reality)
@@ -330,3 +340,175 @@ flashcards:
   - term: Suicial ideation
     category: Psychological
     definition: Confirmed thoughts of self-harm
+
+# Neurological
+  - term: Alert and oriented
+    category: Neurological
+    definition: Measuring of mental function, orientation to person, place, time, situation; if all 4 A&Ox4
+
+  - term: Ambulatory
+    category: Neurological
+    definition: Able to walk
+
+  - term: Concussion
+    category: Neurological
+    definition: Loss of consciousness due to severe head injury
+
+  - term: Dysphasia
+    category: Neurological
+    definition: Inability to understand speech as a result of brain injury/illness
+
+  - term: Gait
+    category: Neurological
+    definition: A manner of walking; a pattern of walking
+
+  - term: Neuralgia
+    category: Neurological
+    definition: Nerve pain
+
+  - term: Neurovascularly intact
+    category: Neurological
+    definition: Circulation and sensation intact; blood flow normal and no nerve damage
+
+  - term: Paresthesia
+    category: Neurological
+    definition: Abnormal tactile sensation such as numbness, tingling or burning; pins and needle feeling
+
+  - term: Photophobia
+    category: Neurological
+    definition: Sensitivity to light
+
+  - term: Post-ictal
+    category: Neurological
+    definition: Symptoms that occur after a seizure, where brain electrical activity returns to normal
+
+  - term: Romberg sign
+    category: Neurological
+    definition: Observation of patient's awareness of body position and checks for body swaying and falling; known as Romberg test
+
+  - term: Saddle anesthesia
+    category: Neurological
+    definition: Loss of sensation near "saddle" areas such as bottocks, inner thigh, perineum
+
+  - term: Seizure
+    category: Neurological
+    definition: convulsions due to abnormal electrical impulses in the brain
+
+  - term: Syncope
+    category: Neurological
+    definition: temporary loss of consciousness; fainting
+
+# Integumentary
+
+  - term: Avulsion
+    category: Integumentary
+    definition: A forcible tearing away of a part or structure; can refer to ear, finger, bone, etc
+
+  - term: Contusion
+    category: Integumentary
+    definition: Trauma that results in broken blood vessels under skin; a bruise
+
+  - term: Ecchymosis
+    category: Integumentary
+    definition: Discoloration from contusion (bruise)
+
+  - term: Erythema
+    category: Integumentary
+    definition: Redness of skin; similar to rash, caused by hyperemia (increased blood flow)
+
+  - term: Fluctuance
+    category: Integumentary
+    definition: Capable of being moved or compressed; boggy feeling often indicating fluid buildup
+
+  - term: Induration
+    category: Integumentary
+    definition: Localized hardening of soft tissue; hardened skin often due to inflammation, infection
+
+  - term: Laceration
+    category: Integumentary
+    definition: Cut in the skin
+
+  - term: Maculopapular Rash
+    category: Integumentary
+    definition: A type of skin rash, often characterized by flat (macular) or bumpy (papular) red discolored spots
+
+  - term: Macular
+    category: Integumentary
+    definition: Flat, referring to type of rash
+
+  - term: Papular
+    category: Integumentary
+    definition: Solid, raised (not flat), bumpy, lesion with distinct borders
+    
+  - term: Melanoma
+    category: Integumentary
+    definition: Most deadly type of skin cancer, black tumor resulting from cancerous pigmentation cells
+
+  - term: Nuchal rigidity
+    category: Integumentary
+    definition: Neck (nuchal) stiffness
+
+  - term: Pallor
+    category: Integumentary
+    definition: Paleness of the skin
+
+  - term: Pruritic
+    category: Integumentary
+    definition: Itchy
+
+  - term: Purulent
+    category: Integumentary
+    definition: relating, consisting, containing, or discharging of pus
+
+  - term: Sanguineous
+    category: Integumentary
+    definition: Drainage that is mixture of pus and blood
+
+# Miscellaneous
+  - term: Acute
+    category: Miscellaneous
+    definition: Sudden flare up of condition
+
+  - term: Chronic
+    category: Miscellaneous
+    definition: Prolonged illness or condition
+
+  - term: Effusion
+    category: Miscellaneous
+    definition: Escape of fluid into cavity
+
+  - term: Etiology
+    category: Miscellaneous
+    definition: Cause of disease and mode of operation
+
+  - term: Exacerbation
+    category: Miscellaneous
+    definition: To aggravate a condition
+
+  - term: Exudate
+    category: Miscellaneous
+    definition: Fluid substance seen on surface tissues, often result of inflammation or disease condition
+
+  - term: Guarding
+    category: Miscellaneous
+    definition: Involuntary or voluntary tensing of muscles to protect the body when pressure, palpitations occur
+
+  - term: Metastasis
+    category: Miscellaneous
+    definition: Spread of cancer
+
+  - term: Necrotic
+    category: Miscellaneous
+    definition: Referring to dead structures in body
+
+  - term: Rebound
+    category: Miscellaneous
+    definition: Increased sensation of pain when pressure from body (or abdomen) suddenly removed
+
+  - term: Sublingual
+    category: Miscellaneous
+    definition: Under the tongue
+
+  - term: Turgor
+    category: Miscellaneous
+    definition: Ability of skin to return to original shape after disconfiguration
