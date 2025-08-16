@@ -16,6 +16,6 @@ Users will need to have the following dependencies installed before using the ap
 ### Build & Run Instructions
 To build and run the app, follow the steps below:
 1. Clone the repository
-2. Run the '''setup_instructions.sh''' script to install package dependencies
+2. Run the ```setup_instructions.sh``` script to install package dependencies
 3. Define a flashcard deck in the flashcard directory as a yaml file (example provided)
-4. Run the application in src folder, i.e. '''python3 quiz_app.py <path/to/flashcard/deck.yaml>'''
+4. Run the application in src folder, i.e. ```python3 quiz_app.py <path/to/flashcard/deck.yaml>```
