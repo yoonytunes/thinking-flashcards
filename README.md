@@ -11,10 +11,11 @@ The motivation of this project was to bypass the subscription model of currently
 ### Dependencies
 Users will need to have the following dependencies installed before using the app:
 - Ollama installation (Llama3.1:8b model or any supported model from website)
+- Python3 PIP installer
 
 ### Build & Run Instructions
 To build and run the app, follow the steps below:
 1. Clone the repository
-2. Activate the virtual environment
+2. Run the setup_instructions.sh script to install package dependencies
 3. Define a flashcard deck in the flashcard directory as a yaml file (example provided)
 4. Run the application in src folder, i.e. python3 quiz_app.py <path/to/flashcard/deck.yaml>
